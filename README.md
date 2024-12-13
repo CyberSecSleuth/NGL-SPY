@@ -1,4 +1,4 @@
-<p align="center"><img src="resources/banner.png" style="height:200px"></p>
+<p align="center"><img src="https://i.postimg.cc/pLSTzRWW/banner.png" style="height:200"></p>
 <h1 align="center" style="font-family: Tahoma;">NGL-SPY</h1>
 
 
@@ -11,7 +11,7 @@
 <p align="center" style="font-family: Courier New ;">YOU CAN VISIT THIS SAMPLE WEBSITE BELOW TO SEE HOW COOL IT IS</p>
 
 <p align="center">
-  <a href="https://ngl.tiiny.site/" target="_blank"><img src="resources/button.png"></a>
+  <a href="https://ngl.tiiny.site/" target="_blank"><img src="https://i.postimg.cc/nLQL1grv/button.png"></a>
 </p>
 
 ## Features
@@ -63,7 +63,7 @@ Follow these instructions to set up the project on your local machine.
 ## Screenshots
 
 <p align="center">
-  <img src="resources/screenshotOut.png" style="border-radius:10">
+  <img src="resources/screenshotOut.png" style="border-radius:10px">
 </p>
 
 ---
