@@ -14,7 +14,7 @@
   <a href="https://ngl.tiiny.site/" target="_blank"><img src="https://i.postimg.cc/nLQL1grv/button.png"></a>
 </p>
 
-<p align="center" style="font-family: Robo Sans;">If you have any doubt please let me know in the comments. Please contact me through DISCORD if you don't know how to do this.</p>
+<p align="center" style="font-family: Robo Sans;">If you have any doubt please let me know in the comments. Please let me know in <b>Issues</b> if you don't know how to do this.</p>
 
 ## Features
 
