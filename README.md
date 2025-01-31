@@ -14,6 +14,8 @@
   <a href="https://ngl.tiiny.site/" target="_blank"><img src="https://i.postimg.cc/nLQL1grv/button.png"></a>
 </p>
 
+<p align="center" style="font-family: Robo Sans;">If you have any doubt please let me know in the comments. Please contact me through DISCORD if you don't know how to do this.</p>
+
 ## Features
 
 - ✨ **View Instagram ID** - The Instagram Id provided by the *anonymous* friend is sent to your inbox along with the text entered
@@ -28,7 +30,7 @@ Follow these instructions to set up the project on your local machine.
 
 ### Prerequisites
 
-> ***Important*** ~ Ensure you have an email registered with web-hosting services like [tiiny](https://tiiny.host/) and cantact webform API providers like [web3forms]("https://web3forms.com/")
+> ***Important*** ~ Ensure you have an email registered with web-hosting services like [tiiny](https://tiiny.host/) and contact webform API providers like [web3forms]("https://web3forms.com/")
 
 ### Installation
 
