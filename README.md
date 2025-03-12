@@ -68,5 +68,8 @@ Follow these instructions to set up the project on your local machine.
   <img src="resources/screenshotOut.png" style="border-radius:10px">
 </p>
 
+## Need Help? I'm Always Ready
+<p align="center"><a href="https://instagram.com/aln_seb" taget="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6056/6056916.png" style="width: 200px"></a></p>
+
 ---
 <p align="center" src="http://alansweb.website2.me/">COPYRIGHT ALANSWEB 2025</p>
