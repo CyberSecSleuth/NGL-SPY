@@ -11,7 +11,7 @@
 <p align="center" style="font-family: Courier New ;">YOU CAN VISIT THIS SAMPLE WEBSITE BELOW TO SEE HOW COOL IT IS</p>
 
 <p align="center">
-  <a href="https://ngl.tiiny.site/" target="_blank"><img src="https://i.postimg.cc/nLQL1grv/button.png"></a>
+  <a href="https://ngl-app.netlify.app/" target="_blank"><img src="https://i.postimg.cc/nLQL1grv/button.png"></a>
 </p>
 
 <p align="center" style="font-family: Robo Sans;">If you have any doubt please let me know in the comments. Please let me know in <b>Issues</b> if you don't know how to do this.</p>
